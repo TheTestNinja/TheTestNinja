@@ -1,4 +1,4 @@
-## <img src="https://img.icons8.com/color/96/bug.png" alt="Bug Logo" width="55"/> Hi there 👋 I'm Shankara Narayanan — Automation Engineer | Java & Playwright Specialist
+## <img src="[https://img.icons8.com/color/96/bug.png](https://github.com/TheTestNinja/TheTestNinja/blob/main/SNK_Logo.png)" alt="Bug Logo" width="55"/> Hi there 👋 I'm Shankara Narayanan — Automation Engineer | Java & Playwright Specialist
 
 🌐 **SNK Nexus** –  [Visit Portfolio](https://snk_nexus/)
  
